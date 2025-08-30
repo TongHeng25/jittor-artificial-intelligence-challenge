@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: bone_inspector
+Version: 0.1.0
+Summary: simple package to transfer 3d motion
+Author: czpcf
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: trimesh
+Requires-Dist: scipy
+Requires-Dist: bpy==4.2
+Requires-Dist: fast_simplification
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

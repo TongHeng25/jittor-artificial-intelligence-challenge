@@ -1,0 +1,7 @@
+python==3.11.11
+numpy==1.26
+bpy==4.4
+scipy
+fast_simplification
+trimesh
+open3d

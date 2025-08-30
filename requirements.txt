@@ -1,0 +1,5 @@
+jittor
+numpy
+trimesh
+scipy
+matplotlib

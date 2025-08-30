@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+src/bone_inspector.egg-info/PKG-INFO
+src/bone_inspector.egg-info/SOURCES.txt
+src/bone_inspector.egg-info/dependency_links.txt
+src/bone_inspector.egg-info/requires.txt
+src/bone_inspector.egg-info/top_level.txt
